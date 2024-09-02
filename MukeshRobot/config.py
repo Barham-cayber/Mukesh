@@ -1,20 +1,20 @@
 class Config(object):
     LOGGER = True
-    API_ID =None 
-    API_HASH = ""
-    TOKEN = ""  
-    OWNER_ID=None
+    API_ID =27442758
+    API_HASH = "8288c5c54f568ee346b3227271700b52"
+    TOKEN = "7104421875:AAHw9a8fqjhyNAiUtyAb-HNMvzfvZOkq0gA"  
+    OWNER_ID=5576431780
     
-    SUPPORT_CHAT = "" 
-    START_IMG = ""
-    EVENT_LOGS = ()
-    MONGO_DB_URI= ""
+    SUPPORT_CHAT = "-1002100221457" 
+    START_IMG = "https://t.me/photosmyys/2"
+    EVENT_LOGS = (-1002032682720)
+    MONGO_DB_URI= "mongodb+srv://<Barhammukesh>:<Barham1234>@cluster0.nwnf3.mongodb.net/?retryWrites=true&w=majority&appName=Cluster0"
    
     DATABASE_URL = ""  # A sql database url from elephantsql.com
     CASH_API_KEY = (
         ""
     )
-    TIME_API_KEY = ""
+    TIME_API_KEY = "VT36FQYTDRFQ"
 
     
     BL_CHATS = [] 
