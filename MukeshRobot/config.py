@@ -10,7 +10,7 @@ class Config(object):
     EVENT_LOGS = (-1002032682720)
     MONGO_DB_URI= "mongodb+srv://barham7726:Barham1234@cluster0.ll412.mongodb.net/?retryWrites=true&w=majority&appName=Cluster0"
    
-    DATABASE_URL = "postgres://avnadmin:AVNS_NusHYCfUDFlQ7kRdxri@joinbot-barhammhamad7726-593f.i.aivencloud.com:17809/defaultdb?sslmode=require"  # A sql database url from elephantsql.com
+    DATABASE_URL = "postgres://avnadmin:AVNS_orWcqrgB-bfuK4Lg1bB@mukesh-barhammhamad7726-593f.i.aivencloud.com:17809/defaultdb?sslmode=require"  # A sql database url from elephantsql.com
     CASH_API_KEY = (
         ""
     )
